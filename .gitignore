@@ -36,3 +36,6 @@ terraform.rc
 
 # Ignore output logs
 *.log
+
+# Ignore Cost Estimate
+cost_estimate.json
